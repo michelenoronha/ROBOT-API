@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.1.1 (Python 3.12.0 on win32)" generated="20231107 15:34:26.958" rpa="false" schemaversion="4">
+<suite id="s1" name="Robot basic" source="C:\Robot_basic">
+<suite id="s1-s1" name="First Teste" source="C:\Robot_basic\First_Teste.Robot">
+<test id="s1-s1-t1" name="teste1" line="11">
+<status status="FAIL" starttime="20231107 15:34:27.019" endtime="20231107 15:34:27.019">Test cannot be empty.</status>
+</test>
+<status status="FAIL" starttime="20231107 15:34:27.012" endtime="20231107 15:34:27.019"/>
+</suite>
+<status status="FAIL" starttime="20231107 15:34:26.966" endtime="20231107 15:34:27.019"/>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="0" fail="1" skip="0" id="s1" name="Robot basic">Robot basic</stat>
+<stat pass="0" fail="1" skip="0" id="s1-s1" name="First Teste">Robot basic.First Teste</stat>
+</suite>
+</statistics>
+<errors>
+<msg timestamp="20231107 15:34:27.012" level="ERROR">Error in file 'C:\Robot_basic\First_Teste.Robot' on line 18: Creating keyword 'KY - teste' failed: User keyword cannot be empty.</msg>
+</errors>
+</robot>
