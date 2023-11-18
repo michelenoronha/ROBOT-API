@@ -1,4 +1,4 @@
-# robot/selenium /API
+# Robot/Selenium /API
 
 Você irá aprender como desenvolver testes automatizados com Robot Framework
 Realizar testes de API em projeto reais
